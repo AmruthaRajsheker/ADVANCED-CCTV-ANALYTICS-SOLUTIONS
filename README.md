@@ -1,4 +1,6 @@
-# AVERT : AUTOMATED VIDEO-BASED EMERGENCY RESPONSE TECHNOLOGY
+![image](https://github.com/AmruthaRajsheker/ADVANCED-CCTV-ANALYTICS-SOLUTIONS/assets/119475943/01b008c7-5b64-40b1-9504-a5b4c9899b18)
+# AVERT : AUTOMATED VIDEO BASED EMERGENCY RESPONSE TECHNOLOGY
+
 
 ## Abstract of the idea:
 AVERT (Automated Video-based Emergency Response Technology) is a groundbreaking mobile application designed to enhance public safety and crime prevention through advanced CCTV analytics. 
