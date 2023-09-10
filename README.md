@@ -28,10 +28,10 @@ and detailed incident information which revolutionizes the way we safeguard our 
 6. Real-Time Crime Tracking
 7. Unique Alert Sound
 
-# Working Architecture of AVERT
+## Working Architecture of AVERT
 ![WhatsApp Image 2023-08-10 at 22 07 19](https://github.com/AmruthaRajsheker/ADVANCED-CCTV-ANALYTICS-SOLUTIONS/assets/119475943/acd3cc65-41bf-47c5-b45b-d71d68e863bd)
 
-# Conclusion 
+## Conclusion 
 In conclusion, AVERT, powered by cutting-edge artificial intelligence and machine learning algorithms, revolutionizes incident detection and response in law enforcement. 
 It's seamless integration with advanced CCTV analytics solutions allows real-time analysis of multiple video feeds, accurately identifying abnormal activities related to safety and crime. 
 The continuous learning and adaptation enhance its precision over time, minimizing false alarms. 
