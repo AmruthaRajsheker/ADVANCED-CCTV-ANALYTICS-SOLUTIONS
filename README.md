@@ -31,6 +31,12 @@ and detailed incident information which revolutionizes the way we safeguard our 
 ## Working Architecture of AVERT
 ![WhatsApp Image 2023-08-10 at 22 07 19](https://github.com/AmruthaRajsheker/ADVANCED-CCTV-ANALYTICS-SOLUTIONS/assets/119475943/acd3cc65-41bf-47c5-b45b-d71d68e863bd)
 
+## Backend Working Architecture
+![image](https://github.com/AmruthaRajsheker/ADVANCED-CCTV-ANALYTICS-SOLUTIONS/assets/119475943/2e6c293f-05df-49fa-9bf5-dc149523d400)
+
+## Applications
+![image](https://github.com/AmruthaRajsheker/ADVANCED-CCTV-ANALYTICS-SOLUTIONS/assets/119475943/eee76b6c-5a8f-49c0-8027-f92b6437e8de)
+
 ## Conclusion 
 In conclusion, AVERT, powered by cutting-edge artificial intelligence and machine learning algorithms, revolutionizes incident detection and response in law enforcement. 
 It's seamless integration with advanced CCTV analytics solutions allows real-time analysis of multiple video feeds, accurately identifying abnormal activities related to safety and crime. 
